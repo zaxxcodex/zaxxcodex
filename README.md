@@ -24,3 +24,15 @@ _I build tools and systems to simplify and enhance digital access in an efficien
 
 ![https://www.youtube.com/@danzfyzofc](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 ![https://t.me/danzfyz](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zaxxcodex/zaxxcodex/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zaxxcodex/zaxxcodex/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/zaxxcodex/zaxxcodex/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/zaxxcodex/zaxxcodex/output/snake.svg" alt="Snake animation" />
+
+###
